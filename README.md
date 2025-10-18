@@ -81,3 +81,7 @@ FileHandlingUtility/
 Akshay Madishetti
 🎓 B.Tech Student — Malla Reddy Engineering College
 💡 Passionate about Java and software development
+
+
+OUTPUT
+<img width="1767" height="755" alt="Image" src="https://github.com/user-attachments/assets/6b42c682-40ef-496b-99b3-30cb3f22077a" />
